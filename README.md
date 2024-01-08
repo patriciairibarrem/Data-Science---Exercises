@@ -1,8 +1,7 @@
 # Data-Science---Exercises
 
 [PT]
-
-#Bem vinda! 
+# Bem vinda! 
 Este é o repositório onde eu compartilho todos os meus exercícios sobre Ciência de Dados. 
 
 [EN]
